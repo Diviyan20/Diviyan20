@@ -3,7 +3,7 @@
 
 💡 Featured Projects<br>
 **Game Development**<br>
-[Demonic](https://github.com/vw79/fypnm): My Final Year Project which is a 3D Hack and Slash game developed using Unreal Engine 5.<br>[Galactic Guardian](https://github.com/nixon-voxell/galacticguardian): A 2D ship building strategy game made in Unity. <br><br>[Forest Frenzy](https://github.com/vw79/ctmjam): Forest Frenzy is a 2D top down action game made in the Unity Game Engine where players must navigate through dense vegetation while battling a variety of enemy types — including the agile Bolt, the explosive Coconut, and the relentless Driller.<br><br>
+[Demonic](https://github.com/vw79/fypnm): My Final Year Project which is a 3D Hack and Slash game developed using Unreal Engine 5.<br><br>[Galactic Guardian](https://github.com/nixon-voxell/galacticguardian): A 2D ship building strategy game made in Unity. <br><br>[Forest Frenzy](https://github.com/vw79/ctmjam): Forest Frenzy is a 2D top down action game made in the Unity Game Engine where players must navigate through dense vegetation while battling a variety of enemy types — including the agile Bolt, the explosive Coconut, and the relentless Driller.<br><br>
 
 **Frontend Development**<br>
 [Freelance Ledger](https://github.com/Diviyan20/Freelance-Ledger): A lightweight, customizable invoice generator for freelancers and small businesses, built with HTML, CSS, and JavaScript — supports dynamic line items, tax calculation, and PDF export.<br><br>[Movie Mark](https://github.com/Diviyan20/Movie-Mark): Fully functional Movie Discovery App made in React, utilizing API from The Movie Database for movie searching, loading more movies, and viewing movie details.<br>

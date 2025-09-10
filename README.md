@@ -11,6 +11,8 @@
 
 **AI Projects**<br>
 [AI Web Scraper](https://github.com/Diviyan20/AI-Web-Scraper): Built an AI-powered web scraper that extracts and summarizes company landing pages using OpenAI GPT and BeautifulSoup with real-time streaming, interface built with Gradio and LLM-driven insights.<br>
+
+[AI Chatbot with Integrated Web Scraper](https://github.com/Diviyan20/AI-Chatbot-Web-Scraper): An intelligent, real-time AI chatbot built with Gradio + OpenAI GPT, integrated with a web scraper that fetches live website content and summarizes it instantly.<br>
 #
 **Game Development**<br>
 [Demonic](https://github.com/vw79/fypnm): My Final Year Project which is a 3D Hack and Slash game developed using Unreal Engine 5.<br><br>[Galactic Guardian](https://github.com/nixon-voxell/galacticguardian): A 2D ship building strategy game made in Unity. <br><br>[Forest Frenzy](https://github.com/vw79/ctmjam): Forest Frenzy is a 2D top down action game made in the Unity Game Engine where players must navigate through dense vegetation while battling a variety of enemy types — including the agile Bolt, the explosive Coconut, and the relentless Driller.<br>

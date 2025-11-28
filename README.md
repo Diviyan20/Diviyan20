@@ -1,11 +1,11 @@
 # 💫 About Me:
-👋 Hi, I'm Diviyan!<br><br>Welcome to my GitHub profile! I'm a passionate Game Developer, Frontend Engineer, and AI Programmer, and I’m currently exploring new opportunities where I can bring my skills to the next level.<br><br>🚀 About Me<br><br>🎮 **Game Development (Unity, Unreal Engine 5 & Godot)**<br>- Built immersive gameplay systems and responsive AI behaviors that adapt dynamically to players.<br><br>- Designed a flexible, modular damage system that enables seamless integration across various gameplay scenarios.<br><br>- Focused on creating smooth, engaging player experiences with high performance and scalability.<br>
+👋 Hi, I'm Diviyan!<br><br>Welcome to my GitHub profile! I'm a passionate Game Developer, Full-Stack Developer, and AI Programmer, and I’m currently exploring new opportunities where I can bring my skills to the next level.<br><br>🚀 About Me<br><br>🎮 **Game Development (Unity, Unreal Engine 5 & Godot)**<br>- Built immersive gameplay systems and responsive AI behaviors that adapt dynamically to players.<br><br>- Designed a flexible, modular damage system that enables seamless integration across various gameplay scenarios.<br><br>- Focused on creating smooth, engaging player experiences with high performance and scalability.<br>
 #
-**🖥️ Frontend Development (React, Next.js, JavaScript)**<br><br>- Developed clean, intuitive, and high-performance user interfaces with a strong focus on user experience and accessibility.<br><br>- Worked on projects that bridge backend APIs with responsive, modern frontends.<br>
+**🖥️ Full-Stack Development (React-Native, Next.js, TypeScript, Python)**<br><br>- Developed clean, intuitive, and high-performance user interfaces with a strong focus on user experience and accessibility.<br><br>- Worked on projects that bridge backend APIs with responsive, modern frontends.<br>
 #
 **🤖 AI Programming with Python**<br><br> - Designed AI-powered applications and prototypes using OpenAI, Jupyter Lab, and Gradio.<br><br>- Built tools and systems that leverage machine learning and NLP to solve real-world problems.<br>
 #
-🛠️ Skills<br>**Languages**: Python, JavaScript, C#, C, HTML, CSS<br>**Frameworks/Deployment**: React, Vercel<br>**Game Engines**: Unity, Godot, Unreal Engine 5<br>**Tools**: Git, VsCode<br>**AI and Data Tools**: GPT-4, llama3, Gradio, Anaconda, Jupyter Lab, One Shot Prompting, Multi Shot Prompting<br>**LLMS**: OpenAI, Ollama, Claude, Gemini<br>
+🛠️ Skills<br>**Languages**: Python, JavaScript, C#, C, HTML, CSS<br>**Frameworks/Deployment**: React, Vercel<br>**Game Engines**: Unity, Godot, Unreal Engine 5<br>**Tools**: Git, Cursor, Jetbrains Pycharm, VSCode, Atlassian, Notion<br>**AI and Data Tools**: GPT-4, llama3, Gradio, Anaconda, Jupyter Lab, One Shot Prompting, Multi Shot Prompting<br>**LLMS**: OpenAI, Ollama, Claude, Gemini<br>
 #
 💡 Featured Projects<br>
 

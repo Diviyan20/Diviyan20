@@ -1,19 +1,13 @@
 # 💫 About Me:
-👋 Hi, I'm Diviyan!<br><br>Welcome to my GitHub profile! I'm a passionate Game Developer, Full-Stack Developer, and AI Programmer, and I’m currently exploring new opportunities where I can bring my skills to the next level.<br><br>🚀 About Me<br><br>🎮 **Game Development (Unity, Unreal Engine 5 & Godot)**<br>- Built immersive gameplay systems and responsive AI behaviors that adapt dynamically to players.<br><br>- Designed a flexible, modular damage system that enables seamless integration across various gameplay scenarios.<br><br>- Focused on creating smooth, engaging player experiences with high performance and scalability.<br>
+👋 Hi, I'm Diviyan!<br><br>Welcome to my GitHub profile! I'm a passionate Game Developer as well as a Full-Stack Developer, and I’m currently exploring new opportunities where I can bring my skills to the next level.<br><br>🚀 About Me<br><br>🎮 **Game Development (Unity, Unreal Engine 5 & Godot)**<br>- Built immersive gameplay systems and responsive AI behaviors that adapt dynamically to players.<br><br>- Designed a flexible, modular damage system that enables seamless integration across various gameplay scenarios.<br><br>- Focused on creating smooth, engaging player experiences with high performance and scalability.<br>
 #
 **🖥️ Full-Stack Development (React-Native, Next.js, TypeScript, Python)**<br><br>- Developed clean, intuitive, and high-performance user interfaces with a strong focus on user experience and accessibility.<br><br>- Worked on projects that bridge backend APIs with responsive, modern frontends.<br>
-#
-**🤖 AI Programming with Python**<br><br> - Designed AI-powered applications and prototypes using OpenAI, Jupyter Lab, and Gradio.<br><br>- Built tools and systems that leverage machine learning and NLP to solve real-world problems.<br>
-#
-🛠️ Skills<br>**Languages**: Python, JavaScript, C#, C, HTML, CSS<br>**Frameworks/Deployment**: React, Vercel<br>**Game Engines**: Unity, Godot, Unreal Engine 5<br>**Tools**: Git, Cursor, Jetbrains Pycharm, VSCode, Atlassian, Notion<br>**AI and Data Tools**: GPT-4, llama3, Gradio, Anaconda, Jupyter Lab, One Shot Prompting, Multi Shot Prompting<br>**LLMS**: OpenAI, Ollama, Claude, Gemini<br>
+
+🛠️ Skills<br>**Frontend**: React.js, React Native, TypeScript, JavaScript (ES6+), HTML5, CSS3, Vite<br>**Backend**: Python, Flask, REST APIs<br>**Game Engines**: Unity, Godot, Unreal Engine 5<br>**Cloud & Deployment**: AWS Lambda, API Gateway, Amazon S3, CloudFront, Secrets Manager, Git, GitHub, 
+Vercel <br>**AI & Development Tools**: AI-assisted development, OpenAI API integration, LLM tools, Gradio, Ollama, JupyterLab <br>**Additional**: Expo, Odoo, BeautifulSoup, Requestsi<br>
 #
 💡 Featured Projects<br>
 
-**AI Projects**<br>
-[AI Web Scraper](https://github.com/Diviyan20/AI-Web-Scraper): Built an AI-powered web scraper that extracts and summarizes company landing pages using OpenAI GPT and BeautifulSoup with real-time streaming, interface built with Gradio and LLM-driven insights.<br>
-
-[AI Chatbot with Integrated Web Scraper](https://github.com/Diviyan20/AI-Chatbot-Web-Scraper): An intelligent, real-time AI chatbot built with Gradio + OpenAI GPT, integrated with a web scraper that fetches live website content and summarizes it instantly.<br>
-#
 **Game Development**<br>
 [Demonic](https://github.com/vw79/fypnm): My Final Year Project which is a 3D Hack and Slash game developed using Unreal Engine 5.<br><br>[Galactic Guardian](https://github.com/nixon-voxell/galacticguardian): A 2D ship building strategy game made in Unity. <br><br>[Forest Frenzy](https://github.com/vw79/ctmjam): Forest Frenzy is a 2D top down action game made in the Unity Game Engine where players must navigate through dense vegetation while battling a variety of enemy types — including the agile Bolt, the explosive Coconut, and the relentless Driller.<br>
 #
